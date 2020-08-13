@@ -1,0 +1,10 @@
+import "./styles/style.css";
+import "component/app-home.js";
+import "component/app-title.js";
+import "component/app-dashboard.js";
+import "component/dashboard-total.js";
+import "component/dashboard-graph.js";
+import "component/app-map";
+import "component/app-news";
+import "chart.js";
+import "leaflet";

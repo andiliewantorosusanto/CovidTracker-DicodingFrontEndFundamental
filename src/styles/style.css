@@ -1,0 +1,17 @@
+* {
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+body,html {
+    height: 100%;
+}
+body {
+    font-family: 'Segoe UI';
+    --primary: #B04040;
+    --secondary: white;
+    --dead: #9400D3;
+    --infect: #f87979;
+    --cure: #7CFC00;
+    --grey: #f8f8f8;
+}
